@@ -1,3 +1,14 @@
+# Nothing to see here, move along!
+
+This is a repo for a Launchpad Pro firmware I am working on. I *have* a version written in Lua for Reason. I have worked through all of the logic issues there, so it's a matter of converting things to work with teh firmware API. 
+
+I will update this readme when there's something to run on your Launchpad Pro.
+
+
+
+
+
+
 # Launchpad Pro
 Open source firmware for the Novation Launchpad Pro grid controller!  By customising this code, you can:
 
